@@ -2,8 +2,6 @@
 Full Stack Developer apasionado por construir soluciones escalables y bien documentadas. Tengo experiencia sólida en desarrollo web y backend, utilizando tecnologías como Angular, Java con Spring Boot, .NET Core y JavaScript. Me especializo en el diseño de APIs RESTful, validación de flujos. Me enfoco en crear sistemas reproducibles, con documentación clara y estructuras pensadas para facilitar la colaboración y el mantenimiento. Cada proyecto que desarrollo busca no solo funcionar, sino ser entendible y útil para otros desarrolladores.
 
 
-![GitHub Snake Light](https://github.com/Erickbs21/Erickbs21/blob/output/github-contribution-grid-snake.svg)
-
 ![GitHub Snake Dark](https://github.com/Erickbs21/Erickbs21/blob/output/github-contribution-grid-snake-dark.svg)
 
 
