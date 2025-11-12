@@ -5,7 +5,6 @@ name: GitHub Snake Game
 on:
 
 
-
   schedule:
 
     - cron: "0 0 * * *"
@@ -95,4 +94,3 @@ jobs:
           # Optionally, you can set a custom commit message
 
           commit_message: "Update snake animation [skip ci]"
-
